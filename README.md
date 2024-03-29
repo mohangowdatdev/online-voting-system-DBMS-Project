@@ -22,6 +22,8 @@ Overall, online voting systems play a vital role in promoting inclusivity, effic
 - Real-time vote counting and results display
 - Admin dashboard for managing the voting system
 
+💡 For images of the project head to `Screenshot_Images folder 
+
 ## Technologies Used
 
 - HTML, CSS, JavaScript
@@ -33,19 +35,19 @@ Overall, online voting systems play a vital role in promoting inclusivity, effic
 
 DOWNLOAD "Online Voting Management System Project"
 
-1. Install [XAMPP](https://www.youtube.com/watch?v=VCHXCusltqI)
+1. Install [XAMPP](https://www.youtube.com/watch?v=VCHXCusltqI) and run Apache and MySQL services.
 
 2. Download the Project Zip Folder
 
-3. Extract the file and copy "voting management system" folder
+3. Extract the file and copy "online voting system" folder
 
-4. Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs)
+4. Paste the folder from previous step inside `xampp/htdocs` directory inside your one of your drive where xampp is installed
 
 5. Open PHPMyAdmin `http://localhost/phpmyadmin`
 
 6. Create a database with name votesystem
 
-7. Import votesystem.sql file(given inside the zip package in db file folder)
+7. Import votesystem.sql file (given inside the zip package in db folder)
 
 8. Run the script 
 
@@ -57,20 +59,20 @@ DOWNLOAD "Online Voting Management System Project"
 
 ## Usage
 
-- Visit `http://localhost:3000` in your browser to access the voting system.
-- Register a new user account or log in with an existing one.
-- Create voting categories and add candidates to them.
-- Cast your votes for the candidates in each category.
-- View real-time vote counts and results on the dashboard.
+- Visit `http://localhost/online-vote/admin/` in your browser to access the admin login.
+- Login to admin dashboard using credentials 'mohan' and 'mohan.sjbit'.
+- Add, Delete or Update existing voters and candidates.
+- Once admin things are done sign-out and goto `http://localhost/online-vote/` to access the voting system.
+- Cast the vote and submit.
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [APACHE 2.0 License](https://github.com/mohangowdatdev/online-voting-system-DBMS-Project?tab=Apache-2.0-1-ov-file).
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request.
+Contributions are welcome! Please feel free to submit a pull request. Also to keep my work supported I'm even open for sponsoring :D
 
 ## Contact
 
-For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, please contact via [MAIL](mailto:mohangowda.mgt@gmail.com) or catchup with me anywhere on [BIO LINK](https://mohangowdat.bio.link/).

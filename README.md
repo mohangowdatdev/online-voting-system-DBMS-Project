@@ -31,33 +31,29 @@ Overall, online voting systems play a vital role in promoting inclusivity, effic
 
 ## Installation
 
-1. Clone the repository:
+DOWNLOAD "Online Voting Management System Project"
 
-    ```bash
-    git clone https://github.com/your-username/voting-system.git
-    ```
+1. Install [XAMPP](https://www.youtube.com/watch?v=VCHXCusltqI)
 
-2. Install the dependencies:
+2. Download the Project Zip Folder
 
-    ```bash
-    npm install
-    ```
+3. Extract the file and copy "voting management system" folder
 
-3. Set up the environment variables:
+4. Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs)
 
-    - Create a `.env` file in the root directory
-    - Add the following variables:
+5. Open PHPMyAdmin `http://localhost/phpmyadmin`
 
-      ```plaintext
-      PORT=3000
-      MONGODB_URI=mongodb://localhost/voting-system
-      ```
+6. Create a database with name votesystem
 
-4. Start the server:
+7. Import votesystem.sql file(given inside the zip package in db file folder)
 
-    ```bash
-    npm start
-    ```
+8. Run the script 
+
+9. Use the Following Credential to log into the Admin Session
+   
+   `username:  mohan`
+   
+   `password:  mohan.sjbit`
 
 ## Usage
 

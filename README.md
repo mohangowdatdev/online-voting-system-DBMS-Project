@@ -65,6 +65,11 @@ DOWNLOAD "Online Voting Management System Project"
 - Once admin things are done sign-out and goto `http://localhost/online-vote/` to access the voting system.
 - Cast the vote and submit.
 
+## Screenshot
+Voting Interface![Voting Interface](https://github.com/mohangowdatdev/online-voting-system-DBMS-Project/blob/main/Screenshot_Images/Opera%20Snapshot_2024-03-03_200245_localhost.png?raw=true)
+Admin Dashboard![Admin Dashboard](https://github.com/mohangowdatdev/online-voting-system-DBMS-Project/blob/main/Screenshot_Images/Screenshot%202024-03-03%20173257.png?raw=true)
+Database Snapshot![Database Snapshot](https://github.com/mohangowdatdev/online-voting-system-DBMS-Project/blob/main/Screenshot_Images/Screenshot%202024-03-03%20201439.png)
+
 ## License
 
 This project is licensed under the [APACHE 2.0 License](https://github.com/mohangowdatdev/online-voting-system-DBMS-Project?tab=Apache-2.0-1-ov-file).

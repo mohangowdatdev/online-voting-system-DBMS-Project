@@ -22,48 +22,7 @@ Overall, online voting systems play a vital role in promoting inclusivity, effic
 - Real-time vote counting and results display
 - Admin dashboard for managing the voting system
 
-💡 For images of the project head to `Screenshot_Images folder 
-
-## Technologies Used
-
-- HTML, CSS, JavaScript
-- PHP
-- XAMPP
-- MySQL
-
-## Installation
-
-DOWNLOAD "Online Voting Management System Project"
-
-1. Install [XAMPP](https://www.youtube.com/watch?v=VCHXCusltqI) and run Apache and MySQL services.
-
-2. Download the Project Zip Folder
-
-3. Extract the file and copy "online voting system" folder
-
-4. Paste the folder from previous step inside `xampp/htdocs` directory inside your one of your drive where xampp is installed
-
-5. Open PHPMyAdmin `http://localhost/phpmyadmin`
-
-6. Create a database with name votesystem
-
-7. Import votesystem.sql file (given inside the zip package in db folder)
-
-8. Run the script 
-
-9. Use the Following Credential to log into the Admin Session
-   
-   `username:  mohan`
-   
-   `password:  mohan.sjbit`
-
-## Usage
-
-- Visit `http://localhost/online-vote/admin/` in your browser to access the admin login.
-- Login to admin dashboard using credentials 'mohan' and 'mohan.sjbit'.
-- Add, Delete or Update existing voters and candidates.
-- Once admin things are done sign-out and goto `http://localhost/online-vote/` to access the voting system.
-- Cast the vote and submit.
+💡 For images of the project head to `Screenshot_Images folder
 
 ## Screenshot
 Voting Interface![Voting Interface](https://github.com/mohangowdatdev/online-voting-system-DBMS-Project/blob/main/Screenshot_Images/Opera%20Snapshot_2024-03-03_200245_localhost.png?raw=true)
